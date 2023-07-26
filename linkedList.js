@@ -130,13 +130,4 @@ class LinkedList {
   }
 }
 
-const ll = new LinkedList();
-
-ll.insertFirst(100);
-ll.insertFirst(200);
-ll.insertFirst(300);
-ll.insertLastNode(400);
-ll.toString();
-//ll.printListData();
-
 export default LinkedList;
