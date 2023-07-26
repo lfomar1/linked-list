@@ -4,6 +4,5 @@ class Node {
     this.next = next;
   }
 }
-const newNode = new Node(100);
 
 export default Node;
